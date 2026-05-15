@@ -1,7 +1,7 @@
 ## Hi there I'm Renzo Esp.👋
 
 <!--
-**Retmatador/Retmatador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Renzo_Espinoza_Tuesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

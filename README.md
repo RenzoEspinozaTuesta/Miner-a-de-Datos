@@ -1,4 +1,4 @@
-## Hi there I'm Renzo Esp.👋
+## Hi there I'm Renzo Espinoza.👋
 
 <!--
 **Renzo_Espinoza_Tuesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
